@@ -28,6 +28,7 @@ efibootmgr
 espeakup
 ethtool
 exfatprogs
+fish
 f2fs-tools
 fatresize
 foot-terminfo
@@ -36,7 +37,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 grub
 hdparm
 hyperv
@@ -75,7 +75,6 @@ nbd
 ndisc6
 nfs-utils
 nilfs-utils
-nmap
 ntfs-3g
 nvme-cli
 open-iscsi
@@ -83,7 +82,6 @@ open-vm-tools
 openconnect
 openpgp-card-tools
 openssh
-openvpn
 partclone
 parted
 partimage
@@ -128,7 +126,6 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh
 
 
 # everything above comes from archiso releng folder
@@ -234,7 +231,7 @@ mkinitcpio-openswap
 #test
 #xfce4
 #xfce4-goodies
-#neofetch
+neofetch
 
 
 ##### want to add/use the ArcoLinux repos

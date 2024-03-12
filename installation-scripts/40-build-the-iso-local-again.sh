@@ -31,9 +31,9 @@ echo
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "
-	#echo "Building the desktop                   : "$desktop
-	#echo "Building version                       : "$arcolinuxVersion
-	#echo "Iso label                              : "$isoLabel
+	# echo "Building the desktop                   : "$desktop
+	# echo "Building version                       : "$arcolinuxVersion
+	# echo "Iso label                              : "$isoLabel
 	echo "Do you have the right archiso version? : "$archisoVersion
 	echo "What is the required archiso version?  : "$archisoRequiredVersion
 	echo "Build folder                           : "$buildFolder
